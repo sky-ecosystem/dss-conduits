@@ -47,6 +47,17 @@ The `withdraw` function is used to move funds from the Conduit into a given `ilk
 
 This code belongs to the MakerDAO community and the Copyright for the code belongs to the Dai Foundation.
 
+## Audits
+
+Audit reports are hosted on the auditors' public portfolio pages:
+
+| Auditor | Report | Date |
+| --- | --- | --- |
+| ChainSecurity | [MakerDAO ArrangerConduit](https://www.chainsecurity.com/security-audit/makerdao-arrangerconduit/) | 2023-10-30 |
+| Cantina | [dss-conduits](https://cantina.xyz/portfolio/d840cb63-0686-4cb0-865d-d07a5b9b7f10) | 2023-10-18 |
+
+ChainSecurity reports are cumulative: each portfolio page hosts the latest version of the report, which covers all previously reviewed versions.
+
 ---
 
 <p align="center">
